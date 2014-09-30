@@ -10,8 +10,8 @@ gulp-project
 
 ## gulp-project使用
 
-1.下载该项目下的文件到项目根目录
-2.在根目录运行`npm install`下载依赖包
+1. 下载该项目下的文件到项目根目录
+2. 在根目录运行`npm install`下载依赖包
 
 ## 运行
 
